@@ -1,0 +1,37 @@
+/* form checkout design machi kolchi 2 */
+[dir=rtl] .checkout-section .checkout .main .checkout-form .checkout-groups .form-group .form-label {
+  text-align: right;
+  top: 10px;
+  position: relative;
+  font-size: 12px;
+  background: #fff;
+  display: inline;
+  padding: 0 0 0 8px;
+}
+
+.checkout-section .checkout .main .checkout-form .checkout-heading {
+  margin: 0 18px -23px;
+  padding: 8px 7.5px;
+  top: -35px;
+  position: relative;
+  background: #ebebebfc;
+  border-radius: 5px;
+}
+
+h2.checkout-heading {
+  text-align: center;
+  border: 1px dashed var(--primary-color);
+}
+
+.checkout-section .checkout .main .checkout-form .checkout-groups .form-group {
+  margin: 0 0 5px;
+  padding: 0 5px;
+}
+
+div#app {
+  content: "chadli";
+}
+
+.button {
+  border-radius: 8px;
+}
